@@ -1,2 +1,2 @@
 # completed-challenges
-practice challenges are saved here
+my practice exercises are here
